@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="f54c8ba3eb2102005ecfa9bcf106fe13" sys_domain="global" table="sn_vul_vulnerable_item" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>security_tags_toolbar.xml</element>
+            <position>0</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>2ccb36d72bc42210c662f5e0f291bfeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Security Tags Toolbar">033b76860b722200263a089b37673a59</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>2ccb36d72bc42210c662f5e0f291bfec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>2</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>a0cb36d72bc42210c662f5e0f291bfed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>source</element>
+            <position>3</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>28cb36d72bc42210c662f5e0f291bfed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_component_name</element>
+            <position>4</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>accb36d72bc42210c662f5e0f291bfed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sw_vulnerability</element>
+            <position>5</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>24cb36d72bc42210c662f5e0f291bfee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_version</element>
+            <position>6</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>a8cb36d72bc42210c662f5e0f291bfee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_supplier</element>
+            <position>7</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>20cb36d72bc42210c662f5e0f291bfef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_license</element>
+            <position>8</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>a4cb36d72bc42210c662f5e0f291bfef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>risk_rating</element>
+            <position>9</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>2ccb36d72bc42210c662f5e0f291bfef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dependency</element>
+            <position>10</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>a0cb36d72bc42210c662f5e0f291bff0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>risk_score</element>
+            <position>11</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>28cb36d72bc42210c662f5e0f291bff0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ttr_applied_rule</element>
+            <position>12</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>accb36d72bc42210c662f5e0f291bff0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ttr_target_date</element>
+            <position>13</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>24cb36d72bc42210c662f5e0f291bff1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ttr_status</element>
+            <position>14</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>a8cb36d72bc42210c662f5e0f291bff1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vulnerability</element>
+            <position>15</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>30cb36d72bc42210c662f5e0f291bff2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>16</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>b4cb36d72bc42210c662f5e0f291bff2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>17</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>3ccb36d72bc42210c662f5e0f291bff2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>18</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>b0cb36d72bc42210c662f5e0f291bff3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>substate</element>
+            <position>19</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>38cb36d72bc42210c662f5e0f291bff3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ignore_expiration</element>
+            <position>20</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>bccb36d72bc42210c662f5e0f291bff3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>21</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>34cb36d72bc42210c662f5e0f291bff4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_type</element>
+            <position>22</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>b8cb36d72bc42210c662f5e0f291bff4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>23</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>30cb36d72bc42210c662f5e0f291bff5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>24</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>b4cb36d72bc42210c662f5e0f291bff5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_opened</element>
+            <position>25</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>3ccb36d72bc42210c662f5e0f291bff5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>26</position>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-08 12:50:34</sys_created_on>
+            <sys_id>b0cb36d72bc42210c662f5e0f291bff6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_vul_vulnerable_item" sys_domain="global" view="Default view">f54c8ba3eb2102005ecfa9bcf106fe13</sys_ui_section>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-08 12:50:34</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sn_vul_vulnerable_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2015-08-04 18:54:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f54c8ba3eb2102005ecfa9bcf106fe13</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>sn_vul_vulnerable_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Vulnerability Response" source="sn_vul">054cdcc2ff200200158bffffffffff94</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vulnerability Response">054cdcc2ff200200158bffffffffff94</sys_scope>
+            <sys_update_name>sys_ui_section_f54c8ba3eb2102005ecfa9bcf106fe13</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-29 09:28:13</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Vulnerability Response">054cdcc2ff200200158bffffffffff94</claim_owner_scope>
+        <claim_timestamp>195d6f833b90000001</claim_timestamp>
+        <metadata_update_name>sys_ui_section_f54c8ba3eb2102005ecfa9bcf106fe13</metadata_update_name>
+        <previous_claim_app_version>25.0.7</previous_claim_app_version>
+        <previous_claim_name>Vulnerability Response</previous_claim_name>
+        <previous_claim_scope>054cdcc2ff200200158bffffffffff94</previous_claim_scope>
+        <sys_created_by>Praveen</sys_created_by>
+        <sys_created_on>2025-03-27 09:39:05</sys_created_on>
+        <sys_id>382640ad2be8e250c662f5e0f291bf78</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Praveen</sys_updated_by>
+        <sys_updated_on>2025-03-27 09:39:05</sys_updated_on>
+    </sys_claim>
+</record_update>

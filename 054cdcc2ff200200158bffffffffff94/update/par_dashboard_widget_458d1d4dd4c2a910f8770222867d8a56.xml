@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">a096c181d48e6910f8770222867d8afb</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"listTitle":"Remediation Task Details","table":"sn_vul_vulnerability","fixedQuery":"active=true^state!=12^assignment_groupDYNAMICd6435e965f510100a9ad2572f2b47744","query":"","columns":"number,short_description,risk_score,risk_rating,state,count_active_vi,ttr_target_date,ttr_status,assignment_group,assigned_to","groupByField":"","limit":10,"maxColumns":10,"page":1,"highlightedValueConfigId":"","hideHighlightedValues":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideRefreshButton":false,"hideLastRefreshedText":true,"hideColumnResizing":false,"hideColumnGrouping":true,"hideColumnFiltering":true,"hideColumnSorting":false,"hidePersonalization":true,"hideColumnReorder":false,"hideDotwalk":true,"hideInlineEditing":true,"hideHighlightContent":false,"highlightContent":"{ \"patterns\": [], \"color\" : \"\" }","hideLinks":false,"hideViewAll":false,"hideCellFilter":true,"hideCheckboxHover":true,"hideFilterPanel":false,"hideFirstPage":false,"hideLastPage":false,"hideLimitSelector":false,"hideMenuButton":true,"hideMultiEdit":false,"hideDeclarativeActions":false,"hideNextPage":false,"hidePages":false,"hidePagination":true,"hidePanel":true,"hidePanelAdvanced":false,"hidePanelConditionDelete":false,"hidePanelFooter":false,"hidePanelRestore":false,"hidePreviousPage":false,"hideQuickEdit":true,"hideRange":false,"hideRowCount":false,"hideRowSelector":false,"hideSelectAll":true,"hideEmptyStateImage":false,"hideDBViews":false,"hideUnnecessaryRowSelectors":true,"overrideWordWrapUserPref":false,"wordWrap":false,"maxCharLimit":4000,"refreshRequested":"","recordSelectedTable":"","recordSelectedSysId":"","recordSelectedQuery":"","recordSelectedView":"","configVersion":"22.1.8","scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"colorConfig":{"type":"default"},"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":"previous","period":"M","dateFormat":"default"}</component_props>
+        <h>29</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-05 07:33:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>458d1d4dd4c2a910f8770222867d8a56</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Vulnerability Response" source="sn_vul">054cdcc2ff200200158bffffffffff94</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vulnerability Response">054cdcc2ff200200158bffffffffff94</sys_scope>
+        <sys_update_name>par_dashboard_widget_458d1d4dd4c2a910f8770222867d8a56</sys_update_name>
+        <sys_updated_by>kalyani</sys_updated_by>
+        <sys_updated_on>2025-03-13 09:47:28</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <widget_props/>
+        <x>0</x>
+        <y>58</y>
+    </par_dashboard_widget>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Vulnerability Response">054cdcc2ff200200158bffffffffff94</claim_owner_scope>
+        <claim_timestamp>195d6f833280000001</claim_timestamp>
+        <metadata_update_name>par_dashboard_widget_458d1d4dd4c2a910f8770222867d8a56</metadata_update_name>
+        <previous_claim_app_version>25.0.7</previous_claim_app_version>
+        <previous_claim_name>Vulnerability Response</previous_claim_name>
+        <previous_claim_scope>054cdcc2ff200200158bffffffffff94</previous_claim_scope>
+        <sys_created_by>Praveen</sys_created_by>
+        <sys_created_on>2025-03-27 09:39:05</sys_created_on>
+        <sys_id>f02640ad2be8e250c662f5e0f291bf63</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Praveen</sys_updated_by>
+        <sys_updated_on>2025-03-27 09:39:05</sys_updated_on>
+    </sys_claim>
+</record_update>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Vulnerability Response">6184f868ffb00200158bffffffffff77</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint>Solutions with highest supersedence</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Highest Supersedence</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sn_vul_solution</name>
+        <order>420</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>is_highest_supersedence=true^ORDERBYDESCdate_published^ORDERBYDESCnumber</query>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>sn_vul.read_all,sn_vul.read_assigned</roles>
+        <survey/>
+        <survey_overwrite>false</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-02 20:32:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1e58740a77603300ac0a7c516810611a</sys_id>
+        <sys_mod_count>43</sys_mod_count>
+        <sys_name>Highest Supersedence</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Vulnerability Response" source="sn_vul">054cdcc2ff200200158bffffffffff94</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vulnerability Response">054cdcc2ff200200158bffffffffff94</sys_scope>
+        <sys_update_name>sys_app_module_1e58740a77603300ac0a7c516810611a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-03-08 13:00:01</sys_updated_on>
+        <timeline_page/>
+        <title>Highest Supersedence</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Vulnerability Response">054cdcc2ff200200158bffffffffff94</claim_owner_scope>
+        <claim_timestamp>195d6f8324d0000001</claim_timestamp>
+        <metadata_update_name>sys_app_module_1e58740a77603300ac0a7c516810611a</metadata_update_name>
+        <previous_claim_app_version>25.0.7</previous_claim_app_version>
+        <previous_claim_name>Vulnerability Response</previous_claim_name>
+        <previous_claim_scope>054cdcc2ff200200158bffffffffff94</previous_claim_scope>
+        <sys_created_by>Praveen</sys_created_by>
+        <sys_created_on>2025-03-27 09:39:04</sys_created_on>
+        <sys_id>ac2640ad2be8e250c662f5e0f291bf1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Praveen</sys_updated_by>
+        <sys_updated_on>2025-03-27 09:39:04</sys_updated_on>
+    </sys_claim>
+</record_update>

@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="risk_rating" table="sn_vul_app_vulnerable_item" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>risk_rating</element>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Siva</sys_created_by>
+            <sys_created_on>2021-07-21 14:32:20</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>risk_rating</sys_name>
+            <sys_package display_value="Vulnerability Response" source="sn_vul">054cdcc2ff200200158bffffffffff94</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vulnerability Response">054cdcc2ff200200158bffffffffff94</sys_scope>
+            <sys_update_name>sys_choice_sn_vul_app_vulnerable_item_risk_rating</sys_update_name>
+            <sys_updated_by>Siva</sys_updated_by>
+            <sys_updated_on>2021-07-21 14:32:20</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 - Critique</label>
+            <language>fr</language>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>suneetha</sys_created_by>
+            <sys_created_on>2021-10-25 14:12:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-04-09 08:03:22</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 - Crítica</label>
+            <language>es</language>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>suneetha</sys_created_by>
+            <sys_created_on>2021-10-26 07:30:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>suneetha</sys_updated_by>
+            <sys_updated_on>2021-10-26 07:30:08</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 - Critical</label>
+            <language>en</language>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>Siva</sys_created_by>
+            <sys_created_on>2021-07-21 14:32:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Siva</sys_updated_by>
+            <sys_updated_on>2021-07-21 14:32:20</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 - Élevé</label>
+            <language>fr</language>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>suneetha</sys_created_by>
+            <sys_created_on>2021-10-25 14:12:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-04-09 08:03:22</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 - Alta</label>
+            <language>es</language>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>suneetha</sys_created_by>
+            <sys_created_on>2021-10-26 07:30:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>suneetha</sys_updated_by>
+            <sys_updated_on>2021-10-26 07:30:08</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 - High</label>
+            <language>en</language>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>Siva</sys_created_by>
+            <sys_created_on>2021-07-21 14:32:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Siva</sys_updated_by>
+            <sys_updated_on>2021-07-21 14:32:20</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 - Medium</label>
+            <language>en</language>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>Siva</sys_created_by>
+            <sys_created_on>2021-07-21 14:32:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Siva</sys_updated_by>
+            <sys_updated_on>2021-07-21 14:32:20</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 : moyen</label>
+            <language>fr</language>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>suneetha</sys_created_by>
+            <sys_created_on>2021-10-25 14:12:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>suneetha</sys_updated_by>
+            <sys_updated_on>2021-10-25 14:12:00</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 - Media</label>
+            <language>es</language>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>suneetha</sys_created_by>
+            <sys_created_on>2021-10-26 07:30:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>suneetha</sys_updated_by>
+            <sys_updated_on>2021-10-26 07:30:08</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4 - Faible</label>
+            <language>fr</language>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>suneetha</sys_created_by>
+            <sys_created_on>2021-10-25 14:12:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2024-04-09 08:03:22</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4 - Low</label>
+            <language>en</language>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>Siva</sys_created_by>
+            <sys_created_on>2021-07-21 14:32:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Siva</sys_updated_by>
+            <sys_updated_on>2021-07-21 14:32:20</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4 - Baja</label>
+            <language>es</language>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>suneetha</sys_created_by>
+            <sys_created_on>2021-10-26 07:30:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>suneetha</sys_updated_by>
+            <sys_updated_on>2021-10-26 07:30:08</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5 : aucun</label>
+            <language>fr</language>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>suneetha</sys_created_by>
+            <sys_created_on>2021-10-25 14:12:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>suneetha</sys_updated_by>
+            <sys_updated_on>2021-10-25 14:12:00</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5 - Ninguna</label>
+            <language>es</language>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>suneetha</sys_created_by>
+            <sys_created_on>2021-10-26 07:30:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>suneetha</sys_updated_by>
+            <sys_updated_on>2021-10-26 07:30:08</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5 - None</label>
+            <language>en</language>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>Siva</sys_created_by>
+            <sys_created_on>2021-07-21 14:32:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Siva</sys_updated_by>
+            <sys_updated_on>2021-07-21 14:32:20</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Medium</label>
+            <language>en</language>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-07 17:15:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-07 17:15:23</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>High</label>
+            <language>en</language>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-07 17:15:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-07 17:15:23</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Critical</label>
+            <language>en</language>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-07 17:15:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-07 17:15:23</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>risk_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Low</label>
+            <language>en</language>
+            <name>sn_vul_app_vulnerable_item</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>Praveen</sys_created_by>
+            <sys_created_on>2025-03-07 17:15:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Praveen</sys_updated_by>
+            <sys_updated_on>2025-03-07 17:15:24</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+    </sys_choice>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Vulnerability Response">054cdcc2ff200200158bffffffffff94</claim_owner_scope>
+        <claim_timestamp>195d6f833890000001</claim_timestamp>
+        <metadata_update_name>sys_choice_sn_vul_app_vulnerable_item_risk_rating</metadata_update_name>
+        <previous_claim_app_version>25.0.7</previous_claim_app_version>
+        <previous_claim_name>Vulnerability Response</previous_claim_name>
+        <previous_claim_scope>054cdcc2ff200200158bffffffffff94</previous_claim_scope>
+        <sys_created_by>Praveen</sys_created_by>
+        <sys_created_on>2025-03-27 09:39:05</sys_created_on>
+        <sys_id>b82640ad2be8e250c662f5e0f291bf71</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Praveen</sys_updated_by>
+        <sys_updated_on>2025-03-27 09:39:05</sys_updated_on>
+    </sys_claim>
+</record_update>

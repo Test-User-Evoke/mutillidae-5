@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Vulnerability Response">6184f868ffb00200158bffffffffff77</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint>Solutions with highest supersedence or preferred for at least one active VI</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>With Vulnerable Items</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sn_vul_solution</name>
+        <order>430</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>is_highest_supersedence=true^ORis_preferred=true^active_nd_pot_vis&gt;0^ORDERBYDESCrisk_score^ORDERBYDESCactive_nd_pot_vis^ORDERBYDESCnumber</query>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>sn_vul.read_all,sn_vul.view_enterprise_wide_stats</roles>
+        <survey/>
+        <survey_overwrite>false</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-05 18:33:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>69ec888977803300ac0a7c51681061a2</sys_id>
+        <sys_mod_count>79</sys_mod_count>
+        <sys_name>With Vulnerable Items</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Vulnerability Response" source="sn_vul">054cdcc2ff200200158bffffffffff94</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vulnerability Response">054cdcc2ff200200158bffffffffff94</sys_scope>
+        <sys_update_name>sys_app_module_69ec888977803300ac0a7c51681061a2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-03-08 13:00:02</sys_updated_on>
+        <timeline_page/>
+        <title>With Vulnerable Items</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Vulnerability Response">054cdcc2ff200200158bffffffffff94</claim_owner_scope>
+        <claim_timestamp>195d6f833600000001</claim_timestamp>
+        <metadata_update_name>sys_app_module_69ec888977803300ac0a7c51681061a2</metadata_update_name>
+        <previous_claim_app_version>25.0.7</previous_claim_app_version>
+        <previous_claim_name>Vulnerability Response</previous_claim_name>
+        <previous_claim_scope>054cdcc2ff200200158bffffffffff94</previous_claim_scope>
+        <sys_created_by>Praveen</sys_created_by>
+        <sys_created_on>2025-03-27 09:39:05</sys_created_on>
+        <sys_id>f42640ad2be8e250c662f5e0f291bf6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Praveen</sys_updated_by>
+        <sys_updated_on>2025-03-27 09:39:05</sys_updated_on>
+    </sys_claim>
+</record_update>

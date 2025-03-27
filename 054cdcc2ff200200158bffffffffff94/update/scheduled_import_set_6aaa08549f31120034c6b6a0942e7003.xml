@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="scheduled_import_set">
+    <scheduled_import_set action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <business_calendar/>
+        <concurrent_import>false</concurrent_import>
+        <condition/>
+        <conditional>false</conditional>
+        <connection_override/>
+        <data_source display_value="NVD CVE Import 4">a9cc6f1c44947110f8771641feda049f</data_source>
+        <entered_time/>
+        <map/>
+        <max_drift/>
+        <name>Vulnerability Import Template 9</name>
+        <offset/>
+        <offset_type/>
+        <order/>
+        <parent/>
+        <partition_method/>
+        <partition_script/>
+        <partition_size/>
+        <post_script><![CDATA[var mgr = new sn_vul.VulnerabilityDSAttachmentManager();
+mgr.updateQueueItemStatus(data_source, false, import_set);]]></post_script>
+        <post_script_bool>true</post_script_bool>
+        <pre_script/>
+        <pre_script_bool>false</pre_script_bool>
+        <record_source>regular</record_source>
+        <run_as display_value="VR System">c98e5bb253333200e8f9f745911c087a</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period>1997-05-18 00:00:00</run_period>
+        <run_start>2055-08-13 16:33:37</run_start>
+        <run_time>1970-01-01 08:00:00</run_time>
+        <run_type>periodically</run_type>
+        <show_connection_override>false</show_connection_override>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>scheduled_import_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-02-21 08:55:20</sys_created_on>
+        <sys_id>6aaa08549f31120034c6b6a0942e7003</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>Vulnerability Import Template 9</sys_name>
+        <sys_package display_value="Vulnerability Response" source="sn_vul">054cdcc2ff200200158bffffffffff94</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vulnerability Response">054cdcc2ff200200158bffffffffff94</sys_scope>
+        <sys_update_name>scheduled_import_set_6aaa08549f31120034c6b6a0942e7003</sys_update_name>
+        <sys_updated_by>VR.System</sys_updated_by>
+        <sys_updated_on>2024-12-26 18:29:28</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+        <use_child_connection>false</use_child_connection>
+    </scheduled_import_set>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Vulnerability Response">054cdcc2ff200200158bffffffffff94</claim_owner_scope>
+        <claim_timestamp>195d6f8333b0000001</claim_timestamp>
+        <metadata_update_name>scheduled_import_set_6aaa08549f31120034c6b6a0942e7003</metadata_update_name>
+        <previous_claim_app_version>25.0.7</previous_claim_app_version>
+        <previous_claim_name>Vulnerability Response</previous_claim_name>
+        <previous_claim_scope>054cdcc2ff200200158bffffffffff94</previous_claim_scope>
+        <sys_created_by>Praveen</sys_created_by>
+        <sys_created_on>2025-03-27 09:39:05</sys_created_on>
+        <sys_id>fc2640ad2be8e250c662f5e0f291bf65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Praveen</sys_updated_by>
+        <sys_updated_on>2025-03-27 09:39:05</sys_updated_on>
+    </sys_claim>
+</record_update>

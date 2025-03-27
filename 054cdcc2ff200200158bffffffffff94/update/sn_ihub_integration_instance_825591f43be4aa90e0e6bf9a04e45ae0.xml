@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="INSERT_OR_UPDATE">
+        <description>integrating OWASP with ServiceNow</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type/>
+        <internal_name/>
+        <name>OWASP integration</name>
+        <record_id>565591f43be4aa90e0e6bf9a04e45ae1</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>Praveen</sys_created_by>
+        <sys_created_on>2025-03-25 07:29:42</sys_created_on>
+        <sys_id>825591f43be4aa90e0e6bf9a04e45ae0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>OWASP integration</sys_name>
+        <sys_package display_value="Vulnerability Response" source="sn_vul">054cdcc2ff200200158bffffffffff94</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vulnerability Response">054cdcc2ff200200158bffffffffff94</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_825591f43be4aa90e0e6bf9a04e45ae0</sys_update_name>
+        <sys_updated_by>Praveen</sys_updated_by>
+        <sys_updated_on>2025-03-25 07:29:42</sys_updated_on>
+    </sn_ihub_integration_instance>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Vulnerability Response">054cdcc2ff200200158bffffffffff94</claim_owner_scope>
+        <claim_timestamp>195d6f832dd0000001</claim_timestamp>
+        <metadata_update_name>sn_ihub_integration_instance_825591f43be4aa90e0e6bf9a04e45ae0</metadata_update_name>
+        <previous_claim_app_version>25.0.7</previous_claim_app_version>
+        <previous_claim_name>Vulnerability Response</previous_claim_name>
+        <previous_claim_scope>054cdcc2ff200200158bffffffffff94</previous_claim_scope>
+        <sys_created_by>Praveen</sys_created_by>
+        <sys_created_on>2025-03-27 09:39:05</sys_created_on>
+        <sys_id>fc2640ad2be8e250c662f5e0f291bf51</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Praveen</sys_updated_by>
+        <sys_updated_on>2025-03-27 09:39:05</sys_updated_on>
+    </sys_claim>
+</record_update>
